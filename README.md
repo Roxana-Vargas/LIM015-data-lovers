@@ -66,8 +66,6 @@ _“Yo como jugador de PokemonGO quiero conocer las evoluciones de un pokemon y 
  
 ## Prototipo en papel
 
-![Prototipo en papel 1](https://github.com/ko4la07/LIM015-data-lovers/blob/main/src/assets/img/prototipo_1.jpeg)
-
 ![Prototipo en papel 2](https://github.com/ko4la07/LIM015-data-lovers/blob/main/src/assets/img/prototipo_2.jpeg)
 
 ![Prototipo en papel 3](https://github.com/ko4la07/LIM015-data-lovers/blob/main/src/assets/img/prototipo_3.jpeg)
